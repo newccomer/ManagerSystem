@@ -1,0 +1,1064 @@
+[ 2019-10-27T00:05:13+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000140s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000321s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014732s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015966s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001572s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001688s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001648s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001768s ]
+
+[ 2019-10-27T00:05:13+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/right.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000205s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024240s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025874s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001754s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002665s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002553s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002765s ]
+
+[ 2019-10-27T00:15:48+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000167s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000510s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029766s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031067s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003591s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003890s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002715s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003153s ]
+
+[ 2019-10-27T00:15:48+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/right.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000123s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000441s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032585s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035114s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004878s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006205s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004050s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004331s ]
+
+[ 2019-10-27T00:24:08+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Role/showlist
+ERR: Think\Model:dump方法不存在！
+
+[ 2019-10-27T00:27:23+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Auth/update/id/1.html
+ERR: 非法操作:update
+
+[ 2019-10-27T00:28:43+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/User/add
+ERR: 非法操作:add
+
+[ 2019-10-27T00:28:44+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/User/showlist
+ERR: 非法操作:showlist
+
+[ 2019-10-27T00:28:49+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Category/showlist
+ERR: 无法加载控制器:Category
+
+[ 2019-10-27T00:28:49+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Category/add
+ERR: 无法加载控制器:Category
+
+[ 2019-10-27T00:28:50+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Goods/showlist
+ERR: 无法加载控制器:Goods
+
+[ 2019-10-27T00:28:51+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Goods/add
+ERR: 无法加载控制器:Goods
+
+[ 2019-10-27T12:55:34+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000191s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015146s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016112s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001383s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001487s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001497s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001602s ]
+
+[ 2019-10-27T12:55:35+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/right.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000156s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000624s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026766s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028970s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007588s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007807s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006478s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006956s ]
+
+[ 2019-10-27T12:56:35+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Auth/update/id/1.html
+ERR: 非法操作:update
+
+[ 2019-10-27T13:12:24+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Auth/:U('delete',array('id'=%3E$v['a_id']))
+ERR: 非法操作::U('delete',array('id'=>$v['a_id']))
+
+[ 2019-10-27T13:12:42+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Auth/:U('delete',array('id'=%3E$v['a_id']))
+ERR: 非法操作::U('delete',array('id'=>$v['a_id']))
+
+[ 2019-10-27T14:03:35+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/User/add
+ERR: Think\Controller:asssign方法不存在！
+
+[ 2019-10-27T14:17:32+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000190s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013281s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013974s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001367s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001471s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001534s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001638s ]
+
+[ 2019-10-27T14:17:32+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/right.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000211s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000766s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030942s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031932s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002740s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002965s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003142s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003510s ]
+
+[ 2019-10-27T14:25:17+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/User/add
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'u (`u_name`,`u_password`) VALUES ('wq','121212')' at line 1
+ [ SQL语句 ] : INSERT INTO nc_user u (`u_name`,`u_password`) VALUES ('wq','121212')
+
+[ 2019-10-27T14:25:52+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/User/add
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'u (`u_name`,`u_password`) VALUES ('wq','121212')' at line 1
+ [ SQL语句 ] : INSERT INTO nc_user u (`u_name`,`u_password`) VALUES ('wq','121212')
+
+[ 2019-10-27T14:26:11+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/User/add
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'u (`u_name`,`u_password`) VALUES ('wq','121212')' at line 1
+ [ SQL语句 ] : INSERT INTO nc_user u (`u_name`,`u_password`) VALUES ('wq','121212')
+
+[ 2019-10-27T14:48:56+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000250s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020845s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021848s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002379s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002607s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001903s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002056s ]
+
+[ 2019-10-27T14:48:56+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/right.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000145s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000376s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026153s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027643s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001350s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001474s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001430s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001544s ]
+
+[ 2019-10-27T14:51:13+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000135s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000736s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029379s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031162s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002434s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002660s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003746s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004002s ]
+
+[ 2019-10-27T14:51:13+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/right.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000139s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000363s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022390s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024307s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002106s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002353s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002297s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002503s ]
+
+[ 2019-10-27T14:53:49+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Auth/update/id/1.html
+ERR: 模板不存在:./Application/Admin/View/Auth/update.html
+
+[ 2019-10-27T15:20:11+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000198s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015125s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015807s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001388s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001492s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001738s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001888s ]
+
+[ 2019-10-27T15:20:11+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/right.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000330s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000713s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020331s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021481s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001896s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002104s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002082s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003197s ]
+
+[ 2019-10-27T15:39:32+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000214s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013394s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014092s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001365s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001467s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001575s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001682s ]
+
+[ 2019-10-27T15:39:32+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/right.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000153s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000385s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025719s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002897s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003157s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002207s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002401s ]
+
+[ 2019-10-27T15:45:01+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000172s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000507s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024491s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026104s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002587s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002743s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003172s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003410s ]
+
+[ 2019-10-27T15:45:01+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/right.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000144s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000419s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035097s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036988s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002386s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002727s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002616s ]
+
+[ 2019-10-27T15:46:41+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/right.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000218s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000494s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021488s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022320s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001565s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001892s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002402s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002682s ]
+
+[ 2019-10-27T15:46:41+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000141s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000417s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033084s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034227s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006216s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007940s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008368s ]
+
+[ 2019-10-27T15:59:34+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000141s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000377s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026998s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028335s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002255s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002416s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002089s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002281s ]
+
+[ 2019-10-27T15:59:34+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/right.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000247s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017532s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018693s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003530s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003792s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005237s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005522s ]
+
+[ 2019-10-27T16:09:04+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/User/:U('delete',array('u_id'=%3E$v['u_id']))
+ERR: 非法操作::U('delete',array('u_id'=>$v['u_id']))
+
+[ 2019-10-27T16:20:00+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000191s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014301s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015072s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001444s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001583s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001561s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001671s ]
+
+[ 2019-10-27T16:20:00+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/right.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000216s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019336s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020473s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002372s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002547s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002581s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002754s ]
+
+[ 2019-10-27T16:20:24+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000142s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000546s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017016s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017894s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001197s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001390s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001467s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001679s ]
+
+[ 2019-10-27T16:20:24+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/right.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000137s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000377s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040523s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041644s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004610s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004886s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006719s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008663s ]
+
+[ 2019-10-27T16:29:12+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000480s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000954s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026213s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027536s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002258s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002476s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002905s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003136s ]
+
+[ 2019-10-27T16:29:12+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/right.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000131s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000348s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024164s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025851s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006236s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006598s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002239s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002473s ]
+
+[ 2019-10-27T16:38:51+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000226s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014813s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016806s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002516s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002829s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001138s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001365s ]
+
+[ 2019-10-27T16:38:51+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/right.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000220s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033966s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035009s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001527s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001673s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005113s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005362s ]
+
+[ 2019-10-27T16:56:11+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000133s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000364s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020878s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021764s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001824s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002124s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001708s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001816s ]
+
+[ 2019-10-27T16:56:11+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/right.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000186s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000484s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023714s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025489s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002036s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002253s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004288s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004568s ]
+
+[ 2019-10-27T17:05:02+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000170s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000470s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017591s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018375s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000845s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000962s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002635s ]
+
+[ 2019-10-27T17:05:02+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/right.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000143s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000386s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023622s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024708s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003163s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003559s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003710s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003895s ]
+
+[ 2019-10-27T17:05:18+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/right.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000201s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012096s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012794s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000773s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000879s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000944s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001049s ]
+
+[ 2019-10-27T17:05:18+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000200s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021111s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021821s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001290s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001400s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001940s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002055s ]
+
+[ 2019-10-27T17:08:07+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/right.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000150s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000315s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012990s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013970s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001079s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001182s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001240s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001347s ]
+
+[ 2019-10-27T17:08:08+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000228s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000995s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028352s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029821s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004780s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005081s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003657s ]
+
+[ 2019-10-27T17:08:54+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Auth/:U('delete',array('id'=%3E$v['a_id']))
+ERR: 非法操作::U('delete',array('id'=>$v['a_id']))
+
+[ 2019-10-27T17:10:43+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/right.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000194s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012934s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014243s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001099s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001203s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002447s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002611s ]
+
+[ 2019-10-27T17:10:43+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000272s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023629s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025053s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002322s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002486s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001523s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001658s ]
+
+[ 2019-10-27T17:12:13+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/right.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000138s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000364s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016511s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017372s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001707s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002169s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001545s ]
+
+[ 2019-10-27T17:12:13+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000228s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000526s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026774s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027997s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004837s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005125s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002944s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003200s ]
+
+[ 2019-10-27T17:12:29+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/right.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000191s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015801s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016590s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001106s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001266s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001650s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001842s ]
+
+[ 2019-10-27T17:12:29+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000229s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000586s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037073s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037828s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004493s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006968s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005169s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005415s ]
+
+[ 2019-10-27T17:16:27+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000205s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015964s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001340s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001442s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001530s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001636s ]
+
+[ 2019-10-27T17:16:27+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/right.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000182s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000481s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030624s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031848s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002264s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002525s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002606s ]
+
+[ 2019-10-27T17:17:38+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000136s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000429s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014137s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014672s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000797s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000931s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000970s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001080s ]
+
+[ 2019-10-27T17:17:38+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/left.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `a_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `nc_auth` WHERE `a_id` IN () AND `a_pid` = 0 
+
+[ 2019-10-27T17:17:38+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/right.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000141s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000386s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026961s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028114s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004385s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004602s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003248s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003482s ]
+
+[ 2019-10-27T17:18:14+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/right.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000137s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000450s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015448s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016225s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000784s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000888s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001251s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001365s ]
+
+[ 2019-10-27T17:18:14+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000336s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025535s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026474s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003540s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003770s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002611s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002834s ]
+
+[ 2019-10-27T17:37:06+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000141s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000508s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014493s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015352s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001352s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001454s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001561s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001668s ]
+
+[ 2019-10-27T17:37:06+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/right.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000138s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000351s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022783s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024037s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001192s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001308s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001330s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001444s ]
+
+[ 2019-10-27T17:39:30+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000124s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000342s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015749s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016372s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006533s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006782s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001512s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001746s ]
+
+[ 2019-10-27T17:39:30+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/right.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000214s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000450s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028216s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029100s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003355s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003578s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003568s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003788s ]
+
+[ 2019-10-27T17:43:53+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000136s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000368s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039927s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041676s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003432s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003072s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003365s ]
+
+[ 2019-10-27T17:43:53+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/right.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000153s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000503s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023989s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025609s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002451s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002731s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003834s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004095s ]
+
+[ 2019-10-27T17:44:55+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000132s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000390s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019441s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020477s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000841s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000972s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001064s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001177s ]
+
+[ 2019-10-27T17:44:55+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/right.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000174s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000471s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022952s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024288s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005382s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005729s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002779s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003631s ]
+
+[ 2019-10-27T17:44:56+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/left.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `a_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `nc_auth` WHERE `a_id` IN () AND `a_pid` = 0 
+
+[ 2019-10-27T17:45:04+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/right.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000145s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000377s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019866s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020746s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000814s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000938s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000972s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001080s ]
+
+[ 2019-10-27T17:45:04+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/left.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `a_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `nc_auth` WHERE `a_id` IN () AND `a_pid` = 0 
+
+[ 2019-10-27T17:45:04+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/top.html
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000208s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000502s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028129s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029593s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006066s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006332s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008827s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009067s ]
+
+[ 2019-10-27T17:45:14+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `a_pid` = 0' at line 1
+ [ SQL语句 ] : SELECT * FROM `nc_auth` WHERE `a_id` IN () AND `a_pid` = 0 
+
+[ 2019-10-27T18:03:59+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Role/showlist
+ERR: Think\Model:D方法不存在！
+
+[ 2019-10-27T18:04:26+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Role/showlist
+ERR: 1146:Table 'realrbac.auth' doesn't exist
+ [ SQL语句 ] : select * from auth
+
+[ 2019-10-27T22:15:40+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Role/showlist
+ERR: 1146:Table 'realrbac.role' doesn't exist
+ [ SQL语句 ] : select * ,sum(r_id) from role as r 
+				join role_auth as ra on  r.r_id = ra.r_id
+				join auth as a on a.a_id = ra.a_id group by r.r_id
+
+[ 2019-10-27T22:15:58+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Role/showlist
+ERR: 1146:Table 'realrbac.role' doesn't exist
+ [ SQL语句 ] : select * from role as r 
+				join role_auth as ra on  r.r_id = ra.r_id
+				join auth as a on a.a_id = ra.a_id group by r.r_id
+
+[ 2019-10-27T22:16:00+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Role/showlist
+ERR: 1146:Table 'realrbac.role' doesn't exist
+ [ SQL语句 ] : select * from role as r 
+				join role_auth as ra on  r.r_id = ra.r_id
+				join auth as a on a.a_id = ra.a_id group by r.r_id
+
+[ 2019-10-27T22:19:07+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Role/showlist
+ERR: 1052:Column 'r_id' in field list is ambiguous
+ [ SQL语句 ] : select sum(r_id) from nc_role as r 
+				join nc_role_auth as ra on  r.r_id = ra.r_id
+				join nc_auth as a on a.a_id = ra.a_id group by r.r_id
+
+[ 2019-10-27T22:21:49+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Role/showlist
+ERR: 1052:Column 'r_id' in field list is ambiguous
+ [ SQL语句 ] : select sum(r_id),r_name,a_ca from nc_role as r 
+				join nc_role_auth as ra on  r.r_id = ra.r_id
+				join nc_auth as a on a.a_id = ra.a_id group by r.r_id
+
+[ 2019-10-27T22:24:26+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Role/showlist
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'by r.r_id' at line 3
+ [ SQL语句 ] : select * from nc_role as r 
+				join nc_role_auth as ra on  r.r_id = ra.r_id
+				join nc_auth as a on a.a_id = ra.a_id where a_pid = a.a_idgroup by r.r_id
+
+[ 2019-10-27T22:26:53+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Role/showlist
+ERR: 1146:Table 'realrbac.auth' doesn't exist
+ [ SQL语句 ] : select * from auth where a_pid = a_id
+
+[ 2019-10-27T22:42:35+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Role/showlist
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group_concat('a_ca') from nc_auth where a_pid = a_id group by ('a_id')' at line 1
+ [ SQL语句 ] : select * group_concat('a_ca') from nc_auth where a_pid = a_id group by ('a_id')
+
+[ 2019-10-27T22:53:51+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Role/showlist
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group_concat(a_ca) from nc_role as r 
+				join nc_role_auth as ra on  r.r_id = ' at line 1
+ [ SQL语句 ] : select r.id group_concat(a_ca) from nc_role as r 
+				join nc_role_auth as ra on  r.r_id = ra.r_id
+				join nc_auth as a on a.a_id = ra.a_id where a.a_pid = a.a_id group by r.r_id
+
+[ 2019-10-27T22:54:01+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Role/showlist
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group_concat(a_ca) from nc_role as r 
+				join nc_role_auth as ra on  r.r_id = ' at line 1
+ [ SQL语句 ] : select r.r_id group_concat(a_ca) from nc_role as r 
+				join nc_role_auth as ra on  r.r_id = ra.r_id
+				join nc_auth as a on a.a_id = ra.a_id where a.a_pid = a.a_id group by r.r_id
+
+[ 2019-10-27T22:54:31+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Role/showlist
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group_concat(a_ca) from nc_role as r 
+				left join nc_role_auth as ra on  r.r_' at line 1
+ [ SQL语句 ] : select r.r_id group_concat(a_ca) from nc_role as r 
+				left join nc_role_auth as ra on  r.r_id = ra.r_id
+				join nc_auth as a on a.a_id = ra.a_id where a.a_pid = a.a_id group by r.r_id
+
+[ 2019-10-27T22:55:34+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Role/showlist
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group_concat(a_ca) from nc_role as r 
+				left join nc_role_auth as ra on r.r_i' at line 1
+ [ SQL语句 ] : select r.r_id group_concat(a_ca) from nc_role as r 
+				left join nc_role_auth as ra on r.r_id = ra.r_id
+				left join nc_auth as a on a.a_id = ra.a_id group by r.r_id
+
+[ 2019-10-27T23:08:47+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Role/showlist
+ERR: 1054:Unknown column 'a.p_id' in 'where clause'
+ [ SQL语句 ] : select r.r_id,r.r_name,group_concat(a_name) as aname,group_concat(a_ca) as ca
+			    from nc_role as r 
+				left join nc_role_auth as ra on r.r_id = ra.r_id
+				left join nc_auth as a on a.a_id = ra.a_id where a.p_id != 0 group by r.r_id
+
+[ 2019-10-27T23:10:33+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Role/showlist
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as t
+				where a.p_id != 0 group by r.r_id' at line 4
+ [ SQL语句 ] : select r.r_id,r.r_name,group_concat(a_name) as aname,group_concat(a_ca) as ca
+			    from nc_role as r 
+				left join nc_role_auth as ra on r.r_id = ra.r_id
+				left join nc_auth as a on a.a_id = ra.a_id as t
+				where a.p_id != 0 group by r.r_id
+
+[ 2019-10-27T23:10:59+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Role/showlist
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(left join nc_role_auth as ra on r.r_id = ra.r_id
+				left join nc_auth as a on' at line 3
+ [ SQL语句 ] : select r.r_id,r.r_name,group_concat(a_name) as aname,group_concat(a_ca) as ca
+			    from nc_role as r 
+				(left join nc_role_auth as ra on r.r_id = ra.r_id
+				left join nc_auth as a on a.a_id = ra.a_id) as t
+				where a.p_id != 0 group by r.r_id
+
+[ 2019-10-27T23:11:45+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Role/showlist
+ERR: 1054:Unknown column 'ra.p_id' in 'where clause'
+ [ SQL语句 ] : select r.r_id,r.r_name,group_concat(a_name) as aname,group_concat(a_ca) as ca
+			    from nc_role as r 
+				left join nc_role_auth as ra on r.r_id = ra.r_id
+				left join nc_auth as a on a.a_id = ra.a_id
+				where ra.p_id != 0 group by r.r_id
+
+[ 2019-10-27T23:14:45+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Role/showlist
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't
+				where a.p_id != 0 group by r.r_id' at line 4
+ [ SQL语句 ] : select r.r_id,r.r_name,group_concat(a_name) as aname,group_concat(a_ca) as ca
+			    from (nc_role as r 
+				left join nc_role_auth as ra on r.r_id = ra.r_id
+				left join nc_auth as a on a.a_id = ra.a_id)as t
+				where a.p_id != 0 group by r.r_id
+
+[ 2019-10-27T23:14:56+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Role/showlist
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't
+				where a.p_id != 0 group by r.r_id' at line 4
+ [ SQL语句 ] : select r.r_id,r.r_name,group_concat(a_name) as aname,group_concat(a_ca) as ca
+			    from (nc_role as r 
+				left join nc_role_auth as ra on r.r_id = ra.r_id
+				left join nc_auth as a on a.a_id = ra.a_id) as t
+				where a.p_id != 0 group by r.r_id
+
+[ 2019-10-27T23:18:33+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Role/showlist
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'on a.a_id = ra.a_id where a.a_pid != 0) 
+				group by r.r_id' at line 4
+ [ SQL语句 ] : select r.r_id,r.r_name,group_concat(a_name) as aname,group_concat(a_ca) as ca
+			    from nc_role as r 
+				left join nc_role_auth as ra on r.r_id = ra.r_id
+				left join (nc_auth as a on a.a_id = ra.a_id where a.a_pid != 0) 
+				group by r.r_id
+
+[ 2019-10-27T23:24:14+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Role/add
+ERR: 模板不存在:./Application/Admin/View/Role/add.html
+
+[ 2019-10-27T23:40:05+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Role/add
+ERR: 非法操作:add
+
+[ 2019-10-27T23:55:50+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/Role/distribute
+ERR: 非法操作:Role
+
+[ 2019-10-27T23:58:12+08:00 ] 127.0.0.1 /ManagerSystem/index.php/Admin/Index/Role/distribute
+ERR: 非法操作:Role
+
